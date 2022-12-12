@@ -18,7 +18,7 @@ public class SumOdd {
 				System.out.println("sum is" + sum);
 				
 			}
-			//System.out.println("sum is" + sum);
+		
 		}
 
 	
